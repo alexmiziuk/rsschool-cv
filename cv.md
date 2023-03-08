@@ -2,8 +2,8 @@
 # Oleksandr Miziuk
 ## Junior Frontend Developer
 
-## Contacts
-* Location
+## Contacts:
+* Location: Kočevje, Slovenia (from Lviv, Ukraine)
 * Phone: +38 066 379 05 85
 * Email: muzikbasss@gmail.com
 * CitHub: [alexmiziuk](https://github.com/alexmiziuk)
